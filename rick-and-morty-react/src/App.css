@@ -1,0 +1,10 @@
+.app {
+  text-align: center;
+  color: white;
+  padding: 15px 30px;
+}
+
+.app__logo {
+  height: 50vmin;
+  pointer-events: none;
+}

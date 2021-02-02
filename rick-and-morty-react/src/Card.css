@@ -1,0 +1,36 @@
+.card {
+  background-color: #8cc256;
+  position: relative;
+  top: 135px;
+  height: 160px;
+  border-radius: 3px;
+}
+
+.card__img {
+  position: relative;
+  top: -120px;
+  border-radius: 50%;
+  width: 150px;
+  box-shadow: 0px 11px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card__content {
+  position: relative;
+  top: -110px;
+}
+
+.card__name {
+  font-size: 24px;
+  padding-bottom: 10px;
+  font-family: "Righteous", cursive;
+  letter-spacing: 2px;
+}
+
+.card__link {
+  text-decoration: none;
+  color: #c4325f;
+}
+
+.card__species {
+  padding-bottom: 5px;
+}
