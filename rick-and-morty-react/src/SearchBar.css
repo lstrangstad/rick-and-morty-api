@@ -31,6 +31,7 @@
 
 #species {
   border: none;
+  border-radius: 3px;
   background: #13a2aa;
   color: white;
   padding: 2px;
